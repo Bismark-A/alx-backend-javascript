@@ -1,1 +1,1 @@
-solution to ES6_basic tasks
+ES6 basic tasks answers

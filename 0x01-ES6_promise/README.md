@@ -1,1 +1,1 @@
-solutions to ES6_promise tasks
+ES6 promise project solutions

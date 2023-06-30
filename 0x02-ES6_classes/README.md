@@ -1,1 +1,1 @@
-solution to ES6_classes tasks
+ES6 classes project solutions
